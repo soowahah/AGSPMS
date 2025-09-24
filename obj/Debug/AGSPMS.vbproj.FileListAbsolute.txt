@@ -1,0 +1,17 @@
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\bin\Debug\AGSPMS.exe.config
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\bin\Debug\AGSPMS.exe
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\bin\Debug\AGSPMS.pdb
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\bin\Debug\AGSPMS.xml
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.Resources.resources
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.vbproj.GenerateResource.Cache
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.exe
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.xml
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.pdb
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmLOGIN.resources
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmAdminDashboard.resources
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmUserManagement.resources
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmAdminHome.resources
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmStudentInfo.resources
+c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmDepartment.resources
+C:\Users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmSubject.resources
+C:\Users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.vbprojResolveAssemblyReference.cache
