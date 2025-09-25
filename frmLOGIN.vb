@@ -9,7 +9,7 @@
             End If
          
 
-            Dim sql As String = "SELECT userID, uname, roleName, pw FROM vw_user WHERE uname = ? AND pw = ?"
+            Dim sql As String = "SELECT userID, uname, fullname, roleName, pw FROM vw_user WHERE uname = ? AND pw = ?"
             Dim cmd As New Odbc.OdbcCommand(sql, con)
 
             With cmd.Parameters
@@ -22,8 +22,9 @@
                 If dr.Read() Then
                     Dim uname As String = dr("uname").ToString()
                     Dim role As String = dr("roleName").ToString()
+                    Dim fullname As String = dr("fullname").ToString()
 
-                    MessageBox.Show("Welcome, " & uname & " (" & role & ")")
+                    MessageBox.Show("Welcome, " & fullname & " (" & role & ")")
 
                     Select Case role
                         Case "Admin"
@@ -31,8 +32,11 @@
                             frmAdminDashboard.Show()
                             'Case "Faculty"
                             ' Faculty.Show()
-                            'Case "Student"
-                            'StudentDashboard.Show()
+                        Case "Student"
+                            frmStudentDashboard.LoggedInUser = fullname
+                            frmStudentDashboard.Show()
+
+
                             'Case Else
                             'MessageBox.Show("Role not recognized.")
                     End Select
@@ -58,6 +62,7 @@
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Me.Close()
+        frmWELCOME.Close()
 
     End Sub
 
@@ -66,7 +71,8 @@
     End Sub
 
     Private Sub frmLOGIN_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Call vbconnection()
+
+
 
     End Sub
 End Class

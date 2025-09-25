@@ -69,7 +69,7 @@ Partial Class frmAdminHome
         Me.Panel5.Controls.Add(Me.PictureBox6)
         Me.Panel5.Controls.Add(Me.Label12)
         Me.Panel5.Controls.Add(Me.Label9)
-        Me.Panel5.Location = New System.Drawing.Point(521, 268)
+        Me.Panel5.Location = New System.Drawing.Point(531, 278)
         Me.Panel5.Name = "Panel5"
         Me.Panel5.Size = New System.Drawing.Size(336, 165)
         Me.Panel5.TabIndex = 3
@@ -108,7 +108,7 @@ Partial Class frmAdminHome
         Me.Panel4.Controls.Add(Me.PictureBox5)
         Me.Panel4.Controls.Add(Me.Label10)
         Me.Panel4.Controls.Add(Me.Label8)
-        Me.Panel4.Location = New System.Drawing.Point(116, 268)
+        Me.Panel4.Location = New System.Drawing.Point(126, 278)
         Me.Panel4.Name = "Panel4"
         Me.Panel4.Size = New System.Drawing.Size(336, 165)
         Me.Panel4.TabIndex = 1
@@ -147,7 +147,7 @@ Partial Class frmAdminHome
         Me.Panel6.Controls.Add(Me.PictureBox4)
         Me.Panel6.Controls.Add(Me.Label11)
         Me.Panel6.Controls.Add(Me.Label6)
-        Me.Panel6.Location = New System.Drawing.Point(521, 68)
+        Me.Panel6.Location = New System.Drawing.Point(531, 78)
         Me.Panel6.Name = "Panel6"
         Me.Panel6.Size = New System.Drawing.Size(336, 165)
         Me.Panel6.TabIndex = 2
@@ -186,7 +186,7 @@ Partial Class frmAdminHome
         Me.Panel3.Controls.Add(Me.PictureBox2)
         Me.Panel3.Controls.Add(Me.Label7)
         Me.Panel3.Controls.Add(Me.Label5)
-        Me.Panel3.Location = New System.Drawing.Point(116, 68)
+        Me.Panel3.Location = New System.Drawing.Point(126, 78)
         Me.Panel3.Name = "Panel3"
         Me.Panel3.Size = New System.Drawing.Size(336, 165)
         Me.Panel3.TabIndex = 0

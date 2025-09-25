@@ -58,6 +58,7 @@ Partial Class frmStudentInfo
         '
         'DataGridView1
         '
+        Me.DataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.None
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.DataGridView1.Location = New System.Drawing.Point(8, 114)
         Me.DataGridView1.Name = "DataGridView1"
@@ -138,30 +139,30 @@ Partial Class frmStudentInfo
         Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
         Me.ContextMenuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional
         Me.ContextMenuStrip1.ShowImageMargin = False
-        Me.ContextMenuStrip1.Size = New System.Drawing.Size(95, 92)
+        Me.ContextMenuStrip1.Size = New System.Drawing.Size(128, 114)
         '
         'ToolStripMenuItem1
         '
         Me.ToolStripMenuItem1.Name = "ToolStripMenuItem1"
-        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(94, 22)
+        Me.ToolStripMenuItem1.Size = New System.Drawing.Size(127, 22)
         Me.ToolStripMenuItem1.Text = "1st Year"
         '
         'ToolStripMenuItem2
         '
         Me.ToolStripMenuItem2.Name = "ToolStripMenuItem2"
-        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(94, 22)
+        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(127, 22)
         Me.ToolStripMenuItem2.Text = "2nd Year"
         '
         'ToolStripMenuItem3
         '
         Me.ToolStripMenuItem3.Name = "ToolStripMenuItem3"
-        Me.ToolStripMenuItem3.Size = New System.Drawing.Size(94, 22)
+        Me.ToolStripMenuItem3.Size = New System.Drawing.Size(127, 22)
         Me.ToolStripMenuItem3.Text = "3rd Year"
         '
         'ToolStripMenuItem4
         '
         Me.ToolStripMenuItem4.Name = "ToolStripMenuItem4"
-        Me.ToolStripMenuItem4.Size = New System.Drawing.Size(94, 22)
+        Me.ToolStripMenuItem4.Size = New System.Drawing.Size(127, 22)
         Me.ToolStripMenuItem4.Text = "4th Year"
         '
         'ContextMenuStrip2

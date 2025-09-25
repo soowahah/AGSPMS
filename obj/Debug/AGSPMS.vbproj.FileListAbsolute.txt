@@ -15,3 +15,6 @@ c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AG
 c:\users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmDepartment.resources
 C:\Users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmSubject.resources
 C:\Users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.vbprojResolveAssemblyReference.cache
+C:\Users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmWELCOME.resources
+C:\Users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmSection.resources
+C:\Users\sandra\documents\visual studio 2013\Projects\AGSPMS\AGSPMS\obj\Debug\AGSPMS.frmStudentDashboard.resources
